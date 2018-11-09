@@ -20,6 +20,9 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <body>
+          <a href="/auth/google">Login with Google</a>
+        </body>
       </div>
     );
   }
